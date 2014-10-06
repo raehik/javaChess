@@ -1,4 +1,4 @@
-package chess;
+package javaChess;
 
 public class Player {
 	private boolean colour;

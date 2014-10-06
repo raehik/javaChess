@@ -1,4 +1,4 @@
-package chess;
+package javaChess;
 
 public class Pawn extends Piece {
 	private boolean firstMove;

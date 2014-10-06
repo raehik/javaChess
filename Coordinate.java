@@ -1,4 +1,4 @@
-package chess;
+package javaChess;
 
 public class Coordinate {
 	private int x;
